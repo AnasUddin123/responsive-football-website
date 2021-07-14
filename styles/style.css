@@ -92,7 +92,7 @@ body{
     text-align: center;
     font-size: 40px;
     font-weight: 900;
-    color: #E02C6D;
+    color: orangered;
 }
 /*--------------------
 Top three legend player
@@ -175,8 +175,12 @@ aside{
     width: 330px;
     height: 200px;
 }  
+.brif{
+    text-align: center;
+}
 .submission { 
     background-color: rgb(211, 19, 19);
+    text-align: center;
     padding: 10px 20px;
     font: 23px;
 }
@@ -186,7 +190,7 @@ aside{
 
 }
 .submission:hover{
-    background-color:rgb(151, 16, 16) ;
+    background-color:skyblue ;
 }
 /*-----------------------
  footer area style started
