@@ -210,16 +210,16 @@ aside{
     gap: 0 30px;
  }
 .fa-instagram-square:hover{
-    color: #cc0c82;
+    color: #8a3ab9;
  }
 .fa-facebook-square:hover{
-    color: rgb(52, 52, 253);
+    color: 	#4267B2;
  }
 .fa-twitter-square:hover{
-     color: rgb(32, 90, 250);
+     color: #00acee;
  }
 .fa-youtube-square:hover{
-     color: rgb(241, 11, 11);
+     color: #c4302b;
  }
  .copyright{
      margin-top: -1.298px;
